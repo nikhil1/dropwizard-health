@@ -67,7 +67,7 @@
     <sonar.projectKey>dropwizard_dropwizard-health</sonar.projectKey>
     <sonar.organization>dropwizard</sonar.organization>
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-    <dropwizard.version>4.0.8</dropwizard.version>
+    <dropwizard.version>5.0.2</dropwizard.version>
     <wiremock.version>3.0.1</wiremock.version>
     <awaitility.version>4.2.2</awaitility.version>
     <maven.compiler.release>17</maven.compiler.release>
